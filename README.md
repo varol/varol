@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varol&label=Profile%20views&color=0e75b6&style=flat" alt="varol" /> </p>
 
-<p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=varol" alt="varol" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=varol" alt="varol" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
